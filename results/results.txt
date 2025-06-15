@@ -1,0 +1,3 @@
+network asymptotic error factor: 0.1518 ± 0.01407
+black box asymptotic error factor: 0.1792 ± 0.01185
+network success rate: 98.0%
